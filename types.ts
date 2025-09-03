@@ -1,0 +1,20 @@
+
+export enum Screen {
+    Home = 'Home',
+    LoanApplication = 'LoanApplication',
+    LoanStatus = 'LoanStatus',
+    SavingsAccount = 'SavingsAccount',
+    CurrentAccount = 'CurrentAccount',
+    CreditCard = 'CreditCard',
+    Recharge = 'Recharge',
+    BillPay = 'BillPay',
+    Transactions = 'Transactions',
+    FundTransfer = 'FundTransfer',
+    Investments = 'Investments',
+    Insurance = 'Insurance',
+    EMICalculator = 'EMICalculator',
+    CreditScore = 'CreditScore',
+    Support = 'Support',
+    Profile = 'Profile',
+    Notifications = 'Notifications',
+}
